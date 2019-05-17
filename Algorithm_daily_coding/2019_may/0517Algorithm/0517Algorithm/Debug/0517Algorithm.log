@@ -1,4 +1,7 @@
-﻿  BOJ1157.cpp
-d:\algorithm\0517algorithm\0517algorithm\boj1157.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  0517Algorithm.vcxproj -> D:\Algorithm\0517Algorithm\Debug\0517Algorithm.exe
-  0517Algorithm.vcxproj -> D:\Algorithm\0517Algorithm\Debug\0517Algorithm.pdb (Partial PDB)
+﻿  vector.cpp
+d:\algorithm\0517algorithm\0517algorithm\vector.cpp(12): error C2065: 'a': 선언되지 않은 식별자입니다.
+d:\algorithm\0517algorithm\0517algorithm\vector.cpp(12): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\algorithm\0517algorithm\0517algorithm\vector.cpp(12): note: 'unknown-type' 형식입니다.
+d:\algorithm\0517algorithm\0517algorithm\vector.cpp(18): error C2065: 'a': 선언되지 않은 식별자입니다.
+d:\algorithm\0517algorithm\0517algorithm\vector.cpp(18): error C2228: '.size' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\algorithm\0517algorithm\0517algorithm\vector.cpp(18): note: 'unknown-type' 형식입니다.
