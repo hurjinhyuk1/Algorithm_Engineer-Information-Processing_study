@@ -1,0 +1,5 @@
+﻿  배열.cpp
+d:\algorithm\0428algorithm\0428algorithm\배열.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\algorithm\0428algorithm\0428algorithm\배열.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0428Algorithm.vcxproj -> D:\Algorithm\0428Algorithm\Debug\0428Algorithm.exe
+  0428Algorithm.vcxproj -> D:\Algorithm\0428Algorithm\Debug\0428Algorithm.pdb (Partial PDB)

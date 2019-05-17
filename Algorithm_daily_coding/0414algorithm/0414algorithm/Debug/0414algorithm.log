@@ -1,0 +1,6 @@
+﻿  2차원 배열.cpp
+d:\algorithm\0414algorithm\0414algorithm\2차원 배열.cpp(1): warning C4081: ':'이(가) 있어야 하는데 '상수'이(가) 있습니다.
+d:\algorithm\0414algorithm\0414algorithm\2차원 배열.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  0414algorithm.vcxproj -> D:\Algorithm\0414algorithm\Debug\0414algorithm.exe
+  0414algorithm.vcxproj -> D:\Algorithm\0414algorithm\Debug\0414algorithm.pdb (Full PDB)

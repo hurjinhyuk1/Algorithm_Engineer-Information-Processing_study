@@ -1,0 +1,4 @@
+﻿  예제1.cpp
+d:\algorithm\0503algorithm\0503algorithm\예제1.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0503Algorithm.vcxproj -> D:\Algorithm\0503Algorithm\Debug\0503Algorithm.exe
+  0503Algorithm.vcxproj -> D:\Algorithm\0503Algorithm\Debug\0503Algorithm.pdb (Partial PDB)

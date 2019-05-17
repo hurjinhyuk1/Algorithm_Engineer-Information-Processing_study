@@ -1,0 +1,7 @@
+﻿  rotate.cpp
+d:\algorithm\0430algorithm\0430algorithm\rotate.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\algorithm\0430algorithm\0430algorithm\rotate.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\algorithm\0430algorithm\0430algorithm\rotate.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\algorithm\0430algorithm\0430algorithm\rotate.cpp(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0430Algorithm.vcxproj -> D:\Algorithm\0430Algorithm\Debug\0430Algorithm.exe
+  0430Algorithm.vcxproj -> D:\Algorithm\0430Algorithm\Debug\0430Algorithm.pdb (Partial PDB)
