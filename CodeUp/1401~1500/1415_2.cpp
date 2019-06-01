@@ -18,7 +18,7 @@ int main (void)
 		} 
 	}
 	
-	if(oddmax)printf("%d",oddmax);
+	if(oddmax)printf("%d ",oddmax);
 	if(evenmax)printf("%d",evenmax);
 	
 	

@@ -12,7 +12,7 @@ int main (void)
 		a[word[i]-'a']++;
 	}
 	for(int i=0; i<26; ++i){
-		printf("%c: %d\n",'a'+i,a[i]);
+		printf("%c:%d\n",'a'+i,a[i]);
 	}
 	return 0;
 	
