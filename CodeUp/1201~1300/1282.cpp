@@ -1,18 +1,29 @@
+#pragma warning (disable:4996)
+
 #include <cstdio>
 #include <math.h>
-int main (void)
+#include <algorithm>
+#include <vector>
+using namespace std;
+
+int main(void)
 {
-	int a,n=1,k=1;
-	scanf("%d",&a);
-	int temp=a;
-	while(n*n<=a){
-		n++;
+
+	int n;
+	int k, t;
+	int temp;
+	scanf("%d", &n);
+
+	for (int i = 1; i <= n; ++i) {
+		int x = sqrt(n - i);
+		temp=x;
+		if (x <temp) {
+			k = i+1;
+			t = temp;
+		}
 	}
-	n--;
-	while(temp>0){
-		temp=temp-(2*k-1);
-		k++;
-	}
-	printf("%d %d",k,n);
+
+	printf("%d %d", k, t);
+
 	return 0;
 }
