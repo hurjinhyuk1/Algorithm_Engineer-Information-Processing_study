@@ -12,7 +12,7 @@ long long f(double x){
 
 	}
 	else{
-	return t;		
+	return x;		
 	}
 	
 }
